@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/DHANUNJAYA2005/applied_programming_skills/tree/master/0283-move-zeroes) |
 | [0496-next-greater-element-i](https://github.com/DHANUNJAYA2005/applied_programming_skills/tree/master/0496-next-greater-element-i) |
 | [0704-binary-search](https://github.com/DHANUNJAYA2005/applied_programming_skills/tree/master/0704-binary-search) |
+| [0735-asteroid-collision](https://github.com/DHANUNJAYA2005/applied_programming_skills/tree/master/0735-asteroid-collision) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/DHANUNJAYA2005/applied_programming_skills/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1480-running-sum-of-1d-array](https://github.com/DHANUNJAYA2005/applied_programming_skills/tree/master/1480-running-sum-of-1d-array) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/DHANUNJAYA2005/applied_programming_skills/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/DHANUNJAYA2005/applied_programming_skills/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/DHANUNJAYA2005/applied_programming_skills/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/DHANUNJAYA2005/applied_programming_skills/tree/master/0496-next-greater-element-i) |
+| [0735-asteroid-collision](https://github.com/DHANUNJAYA2005/applied_programming_skills/tree/master/0735-asteroid-collision) |
 | [0901-online-stock-span](https://github.com/DHANUNJAYA2005/applied_programming_skills/tree/master/0901-online-stock-span) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/DHANUNJAYA2005/applied_programming_skills/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/DHANUNJAYA2005/applied_programming_skills/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
@@ -120,4 +122,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/DHANUNJAYA2005/applied_programming_skills/tree/master/0901-online-stock-span) |
+## Simulation
+|  |
+| ------- |
+| [0735-asteroid-collision](https://github.com/DHANUNJAYA2005/applied_programming_skills/tree/master/0735-asteroid-collision) |
 <!---LeetCode Topics End-->
