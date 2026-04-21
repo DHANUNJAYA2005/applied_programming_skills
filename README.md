@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/DHANUNJAYA2005/applied_programming_skills/tree/master/0023-merge-k-sorted-lists) |
 | [0169-majority-element](https://github.com/DHANUNJAYA2005/applied_programming_skills/tree/master/0169-majority-element) |
+| [0190-reverse-bits](https://github.com/DHANUNJAYA2005/applied_programming_skills/tree/master/0190-reverse-bits) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -203,4 +204,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0621-task-scheduler](https://github.com/DHANUNJAYA2005/applied_programming_skills/tree/master/0621-task-scheduler) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0190-reverse-bits](https://github.com/DHANUNJAYA2005/applied_programming_skills/tree/master/0190-reverse-bits) |
 <!---LeetCode Topics End-->
