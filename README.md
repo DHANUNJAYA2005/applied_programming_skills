@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/DHANUNJAYA2005/applied_programming_skills/tree/master/0387-first-unique-character-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/DHANUNJAYA2005/applied_programming_skills/tree/master/0496-next-greater-element-i) |
 | [0621-task-scheduler](https://github.com/DHANUNJAYA2005/applied_programming_skills/tree/master/0621-task-scheduler) |
+| [1763-longest-nice-substring](https://github.com/DHANUNJAYA2005/applied_programming_skills/tree/master/1763-longest-nice-substring) |
 ## String
 |  |
 | ------- |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/DHANUNJAYA2005/applied_programming_skills/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/DHANUNJAYA2005/applied_programming_skills/tree/master/0387-first-unique-character-in-a-string) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/DHANUNJAYA2005/applied_programming_skills/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
+| [1763-longest-nice-substring](https://github.com/DHANUNJAYA2005/applied_programming_skills/tree/master/1763-longest-nice-substring) |
 ## Queue
 |  |
 | ------- |
@@ -124,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/DHANUNJAYA2005/applied_programming_skills/tree/master/0023-merge-k-sorted-lists) |
 | [0169-majority-element](https://github.com/DHANUNJAYA2005/applied_programming_skills/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/DHANUNJAYA2005/applied_programming_skills/tree/master/0190-reverse-bits) |
+| [1763-longest-nice-substring](https://github.com/DHANUNJAYA2005/applied_programming_skills/tree/master/1763-longest-nice-substring) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -165,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/DHANUNJAYA2005/applied_programming_skills/tree/master/0239-sliding-window-maximum) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/DHANUNJAYA2005/applied_programming_skills/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+| [1763-longest-nice-substring](https://github.com/DHANUNJAYA2005/applied_programming_skills/tree/master/1763-longest-nice-substring) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -208,4 +212,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0190-reverse-bits](https://github.com/DHANUNJAYA2005/applied_programming_skills/tree/master/0190-reverse-bits) |
+| [1763-longest-nice-substring](https://github.com/DHANUNJAYA2005/applied_programming_skills/tree/master/1763-longest-nice-substring) |
 <!---LeetCode Topics End-->
