@@ -291,4 +291,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/DHANUNJAYA2005/applied_programming_skills/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/DHANUNJAYA2005/applied_programming_skills/tree/master/0210-course-schedule-ii) |
 | [1203-sort-items-by-groups-respecting-dependencies](https://github.com/DHANUNJAYA2005/applied_programming_skills/tree/master/1203-sort-items-by-groups-respecting-dependencies) |
+## Backtracking
+|  |
+| ------- |
+| [0077-combinations](https://github.com/DHANUNJAYA2005/applied_programming_skills/tree/master/0077-combinations) |
 <!---LeetCode Topics End-->
