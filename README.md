@@ -210,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/DHANUNJAYA2005/applied_programming_skills/tree/master/0102-binary-tree-level-order-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/DHANUNJAYA2005/applied_programming_skills/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/DHANUNJAYA2005/applied_programming_skills/tree/master/0200-number-of-islands) |
+| [0207-course-schedule](https://github.com/DHANUNJAYA2005/applied_programming_skills/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/DHANUNJAYA2005/applied_programming_skills/tree/master/0210-course-schedule-ii) |
 | [0542-01-matrix](https://github.com/DHANUNJAYA2005/applied_programming_skills/tree/master/0542-01-matrix) |
 | [0721-accounts-merge](https://github.com/DHANUNJAYA2005/applied_programming_skills/tree/master/0721-accounts-merge) |
@@ -229,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/DHANUNJAYA2005/applied_programming_skills/tree/master/0100-same-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/DHANUNJAYA2005/applied_programming_skills/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/DHANUNJAYA2005/applied_programming_skills/tree/master/0200-number-of-islands) |
+| [0207-course-schedule](https://github.com/DHANUNJAYA2005/applied_programming_skills/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/DHANUNJAYA2005/applied_programming_skills/tree/master/0210-course-schedule-ii) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/DHANUNJAYA2005/applied_programming_skills/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0721-accounts-merge](https://github.com/DHANUNJAYA2005/applied_programming_skills/tree/master/0721-accounts-merge) |
@@ -257,12 +259,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/DHANUNJAYA2005/applied_programming_skills/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/DHANUNJAYA2005/applied_programming_skills/tree/master/0210-course-schedule-ii) |
 | [1129-shortest-path-with-alternating-colors](https://github.com/DHANUNJAYA2005/applied_programming_skills/tree/master/1129-shortest-path-with-alternating-colors) |
 | [1203-sort-items-by-groups-respecting-dependencies](https://github.com/DHANUNJAYA2005/applied_programming_skills/tree/master/1203-sort-items-by-groups-respecting-dependencies) |
 ## Topological Sort
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/DHANUNJAYA2005/applied_programming_skills/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/DHANUNJAYA2005/applied_programming_skills/tree/master/0210-course-schedule-ii) |
 | [1203-sort-items-by-groups-respecting-dependencies](https://github.com/DHANUNJAYA2005/applied_programming_skills/tree/master/1203-sort-items-by-groups-respecting-dependencies) |
 <!---LeetCode Topics End-->
