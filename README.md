@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0641-design-circular-deque](https://github.com/DHANUNJAYA2005/applied_programming_skills/tree/master/0641-design-circular-deque) |
 | [0704-binary-search](https://github.com/DHANUNJAYA2005/applied_programming_skills/tree/master/0704-binary-search) |
 | [0735-asteroid-collision](https://github.com/DHANUNJAYA2005/applied_programming_skills/tree/master/0735-asteroid-collision) |
+| [0929-unique-email-addresses](https://github.com/DHANUNJAYA2005/applied_programming_skills/tree/master/0929-unique-email-addresses) |
 | [0946-validate-stack-sequences](https://github.com/DHANUNJAYA2005/applied_programming_skills/tree/master/0946-validate-stack-sequences) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/DHANUNJAYA2005/applied_programming_skills/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/DHANUNJAYA2005/applied_programming_skills/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/DHANUNJAYA2005/applied_programming_skills/tree/master/0387-first-unique-character-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/DHANUNJAYA2005/applied_programming_skills/tree/master/0496-next-greater-element-i) |
 | [0621-task-scheduler](https://github.com/DHANUNJAYA2005/applied_programming_skills/tree/master/0621-task-scheduler) |
+| [0929-unique-email-addresses](https://github.com/DHANUNJAYA2005/applied_programming_skills/tree/master/0929-unique-email-addresses) |
 | [1763-longest-nice-substring](https://github.com/DHANUNJAYA2005/applied_programming_skills/tree/master/1763-longest-nice-substring) |
 ## String
 |  |
@@ -73,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/DHANUNJAYA2005/applied_programming_skills/tree/master/0049-group-anagrams) |
 | [0344-reverse-string](https://github.com/DHANUNJAYA2005/applied_programming_skills/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/DHANUNJAYA2005/applied_programming_skills/tree/master/0387-first-unique-character-in-a-string) |
+| [0929-unique-email-addresses](https://github.com/DHANUNJAYA2005/applied_programming_skills/tree/master/0929-unique-email-addresses) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/DHANUNJAYA2005/applied_programming_skills/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1763-longest-nice-substring](https://github.com/DHANUNJAYA2005/applied_programming_skills/tree/master/1763-longest-nice-substring) |
 ## Queue
