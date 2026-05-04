@@ -215,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/DHANUNJAYA2005/applied_programming_skills/tree/master/0542-01-matrix) |
 | [0721-accounts-merge](https://github.com/DHANUNJAYA2005/applied_programming_skills/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/DHANUNJAYA2005/applied_programming_skills/tree/master/0733-flood-fill) |
+| [0841-keys-and-rooms](https://github.com/DHANUNJAYA2005/applied_programming_skills/tree/master/0841-keys-and-rooms) |
 | [1129-shortest-path-with-alternating-colors](https://github.com/DHANUNJAYA2005/applied_programming_skills/tree/master/1129-shortest-path-with-alternating-colors) |
 | [1203-sort-items-by-groups-respecting-dependencies](https://github.com/DHANUNJAYA2005/applied_programming_skills/tree/master/1203-sort-items-by-groups-respecting-dependencies) |
 ## Binary Tree
@@ -235,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/DHANUNJAYA2005/applied_programming_skills/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0721-accounts-merge](https://github.com/DHANUNJAYA2005/applied_programming_skills/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/DHANUNJAYA2005/applied_programming_skills/tree/master/0733-flood-fill) |
+| [0841-keys-and-rooms](https://github.com/DHANUNJAYA2005/applied_programming_skills/tree/master/0841-keys-and-rooms) |
 | [1203-sort-items-by-groups-respecting-dependencies](https://github.com/DHANUNJAYA2005/applied_programming_skills/tree/master/1203-sort-items-by-groups-respecting-dependencies) |
 ## Greedy
 |  |
@@ -261,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/DHANUNJAYA2005/applied_programming_skills/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/DHANUNJAYA2005/applied_programming_skills/tree/master/0210-course-schedule-ii) |
+| [0841-keys-and-rooms](https://github.com/DHANUNJAYA2005/applied_programming_skills/tree/master/0841-keys-and-rooms) |
 | [1129-shortest-path-with-alternating-colors](https://github.com/DHANUNJAYA2005/applied_programming_skills/tree/master/1129-shortest-path-with-alternating-colors) |
 | [1203-sort-items-by-groups-respecting-dependencies](https://github.com/DHANUNJAYA2005/applied_programming_skills/tree/master/1203-sort-items-by-groups-respecting-dependencies) |
 ## Topological Sort
