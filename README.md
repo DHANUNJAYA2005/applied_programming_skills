@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0929-unique-email-addresses](https://github.com/DHANUNJAYA2005/applied_programming_skills/tree/master/0929-unique-email-addresses) |
 | [0946-validate-stack-sequences](https://github.com/DHANUNJAYA2005/applied_programming_skills/tree/master/0946-validate-stack-sequences) |
 | [0994-rotting-oranges](https://github.com/DHANUNJAYA2005/applied_programming_skills/tree/master/0994-rotting-oranges) |
+| [0997-find-the-town-judge](https://github.com/DHANUNJAYA2005/applied_programming_skills/tree/master/0997-find-the-town-judge) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/DHANUNJAYA2005/applied_programming_skills/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/DHANUNJAYA2005/applied_programming_skills/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1480-running-sum-of-1d-array](https://github.com/DHANUNJAYA2005/applied_programming_skills/tree/master/1480-running-sum-of-1d-array) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/DHANUNJAYA2005/applied_programming_skills/tree/master/0621-task-scheduler) |
 | [0721-accounts-merge](https://github.com/DHANUNJAYA2005/applied_programming_skills/tree/master/0721-accounts-merge) |
 | [0929-unique-email-addresses](https://github.com/DHANUNJAYA2005/applied_programming_skills/tree/master/0929-unique-email-addresses) |
+| [0997-find-the-town-judge](https://github.com/DHANUNJAYA2005/applied_programming_skills/tree/master/0997-find-the-town-judge) |
 | [1763-longest-nice-substring](https://github.com/DHANUNJAYA2005/applied_programming_skills/tree/master/1763-longest-nice-substring) |
 ## String
 |  |
@@ -276,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/DHANUNJAYA2005/applied_programming_skills/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/DHANUNJAYA2005/applied_programming_skills/tree/master/0547-number-of-provinces) |
 | [0841-keys-and-rooms](https://github.com/DHANUNJAYA2005/applied_programming_skills/tree/master/0841-keys-and-rooms) |
+| [0997-find-the-town-judge](https://github.com/DHANUNJAYA2005/applied_programming_skills/tree/master/0997-find-the-town-judge) |
 | [1129-shortest-path-with-alternating-colors](https://github.com/DHANUNJAYA2005/applied_programming_skills/tree/master/1129-shortest-path-with-alternating-colors) |
 | [1203-sort-items-by-groups-respecting-dependencies](https://github.com/DHANUNJAYA2005/applied_programming_skills/tree/master/1203-sort-items-by-groups-respecting-dependencies) |
 ## Topological Sort
