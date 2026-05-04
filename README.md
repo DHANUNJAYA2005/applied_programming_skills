@@ -213,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/DHANUNJAYA2005/applied_programming_skills/tree/master/0542-01-matrix) |
 | [0721-accounts-merge](https://github.com/DHANUNJAYA2005/applied_programming_skills/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/DHANUNJAYA2005/applied_programming_skills/tree/master/0733-flood-fill) |
+| [1129-shortest-path-with-alternating-colors](https://github.com/DHANUNJAYA2005/applied_programming_skills/tree/master/1129-shortest-path-with-alternating-colors) |
 ## Binary Tree
 |  |
 | ------- |
@@ -249,4 +250,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/DHANUNJAYA2005/applied_programming_skills/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/DHANUNJAYA2005/applied_programming_skills/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/DHANUNJAYA2005/applied_programming_skills/tree/master/0733-flood-fill) |
+## Graph Theory
+|  |
+| ------- |
+| [1129-shortest-path-with-alternating-colors](https://github.com/DHANUNJAYA2005/applied_programming_skills/tree/master/1129-shortest-path-with-alternating-colors) |
 <!---LeetCode Topics End-->
