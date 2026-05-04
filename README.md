@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/DHANUNJAYA2005/applied_programming_skills/tree/master/0621-task-scheduler) |
 | [0622-design-circular-queue](https://github.com/DHANUNJAYA2005/applied_programming_skills/tree/master/0622-design-circular-queue) |
 | [0641-design-circular-deque](https://github.com/DHANUNJAYA2005/applied_programming_skills/tree/master/0641-design-circular-deque) |
+| [0695-max-area-of-island](https://github.com/DHANUNJAYA2005/applied_programming_skills/tree/master/0695-max-area-of-island) |
 | [0704-binary-search](https://github.com/DHANUNJAYA2005/applied_programming_skills/tree/master/0704-binary-search) |
 | [0721-accounts-merge](https://github.com/DHANUNJAYA2005/applied_programming_skills/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/DHANUNJAYA2005/applied_programming_skills/tree/master/0733-flood-fill) |
@@ -213,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/DHANUNJAYA2005/applied_programming_skills/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/DHANUNJAYA2005/applied_programming_skills/tree/master/0210-course-schedule-ii) |
 | [0542-01-matrix](https://github.com/DHANUNJAYA2005/applied_programming_skills/tree/master/0542-01-matrix) |
+| [0695-max-area-of-island](https://github.com/DHANUNJAYA2005/applied_programming_skills/tree/master/0695-max-area-of-island) |
 | [0721-accounts-merge](https://github.com/DHANUNJAYA2005/applied_programming_skills/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/DHANUNJAYA2005/applied_programming_skills/tree/master/0733-flood-fill) |
 | [0841-keys-and-rooms](https://github.com/DHANUNJAYA2005/applied_programming_skills/tree/master/0841-keys-and-rooms) |
@@ -234,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/DHANUNJAYA2005/applied_programming_skills/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/DHANUNJAYA2005/applied_programming_skills/tree/master/0210-course-schedule-ii) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/DHANUNJAYA2005/applied_programming_skills/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0695-max-area-of-island](https://github.com/DHANUNJAYA2005/applied_programming_skills/tree/master/0695-max-area-of-island) |
 | [0721-accounts-merge](https://github.com/DHANUNJAYA2005/applied_programming_skills/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/DHANUNJAYA2005/applied_programming_skills/tree/master/0733-flood-fill) |
 | [0841-keys-and-rooms](https://github.com/DHANUNJAYA2005/applied_programming_skills/tree/master/0841-keys-and-rooms) |
@@ -251,12 +254,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/DHANUNJAYA2005/applied_programming_skills/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/DHANUNJAYA2005/applied_programming_skills/tree/master/0695-max-area-of-island) |
 | [0721-accounts-merge](https://github.com/DHANUNJAYA2005/applied_programming_skills/tree/master/0721-accounts-merge) |
 ## Matrix
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/DHANUNJAYA2005/applied_programming_skills/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/DHANUNJAYA2005/applied_programming_skills/tree/master/0542-01-matrix) |
+| [0695-max-area-of-island](https://github.com/DHANUNJAYA2005/applied_programming_skills/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/DHANUNJAYA2005/applied_programming_skills/tree/master/0733-flood-fill) |
 ## Graph Theory
 |  |
