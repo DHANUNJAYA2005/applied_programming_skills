@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/DHANUNJAYA2005/applied_programming_skills/tree/master/0283-move-zeroes) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/DHANUNJAYA2005/applied_programming_skills/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0322-coin-change](https://github.com/DHANUNJAYA2005/applied_programming_skills/tree/master/0322-coin-change) |
+| [0347-top-k-frequent-elements](https://github.com/DHANUNJAYA2005/applied_programming_skills/tree/master/0347-top-k-frequent-elements) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/DHANUNJAYA2005/applied_programming_skills/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/DHANUNJAYA2005/applied_programming_skills/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0474-ones-and-zeroes](https://github.com/DHANUNJAYA2005/applied_programming_skills/tree/master/0474-ones-and-zeroes) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/DHANUNJAYA2005/applied_programming_skills/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/DHANUNJAYA2005/applied_programming_skills/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/DHANUNJAYA2005/applied_programming_skills/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/DHANUNJAYA2005/applied_programming_skills/tree/master/0347-top-k-frequent-elements) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/DHANUNJAYA2005/applied_programming_skills/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0621-task-scheduler](https://github.com/DHANUNJAYA2005/applied_programming_skills/tree/master/0621-task-scheduler) |
 | [0721-accounts-merge](https://github.com/DHANUNJAYA2005/applied_programming_skills/tree/master/0721-accounts-merge) |
@@ -97,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/DHANUNJAYA2005/applied_programming_skills/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/DHANUNJAYA2005/applied_programming_skills/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/DHANUNJAYA2005/applied_programming_skills/tree/master/0202-happy-number) |
+| [0347-top-k-frequent-elements](https://github.com/DHANUNJAYA2005/applied_programming_skills/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/DHANUNJAYA2005/applied_programming_skills/tree/master/0387-first-unique-character-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/DHANUNJAYA2005/applied_programming_skills/tree/master/0496-next-greater-element-i) |
 | [0621-task-scheduler](https://github.com/DHANUNJAYA2005/applied_programming_skills/tree/master/0621-task-scheduler) |
@@ -130,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/DHANUNJAYA2005/applied_programming_skills/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/DHANUNJAYA2005/applied_programming_skills/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/DHANUNJAYA2005/applied_programming_skills/tree/master/0387-first-unique-character-in-a-string) |
 | [0621-task-scheduler](https://github.com/DHANUNJAYA2005/applied_programming_skills/tree/master/0621-task-scheduler) |
 ## Linked List
@@ -172,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/DHANUNJAYA2005/applied_programming_skills/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/DHANUNJAYA2005/applied_programming_skills/tree/master/0190-reverse-bits) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/DHANUNJAYA2005/applied_programming_skills/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [0347-top-k-frequent-elements](https://github.com/DHANUNJAYA2005/applied_programming_skills/tree/master/0347-top-k-frequent-elements) |
 | [0973-k-closest-points-to-origin](https://github.com/DHANUNJAYA2005/applied_programming_skills/tree/master/0973-k-closest-points-to-origin) |
 | [1763-longest-nice-substring](https://github.com/DHANUNJAYA2005/applied_programming_skills/tree/master/1763-longest-nice-substring) |
 ## Heap (Priority Queue)
@@ -179,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/DHANUNJAYA2005/applied_programming_skills/tree/master/0023-merge-k-sorted-lists) |
 | [0239-sliding-window-maximum](https://github.com/DHANUNJAYA2005/applied_programming_skills/tree/master/0239-sliding-window-maximum) |
+| [0347-top-k-frequent-elements](https://github.com/DHANUNJAYA2005/applied_programming_skills/tree/master/0347-top-k-frequent-elements) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/DHANUNJAYA2005/applied_programming_skills/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0621-task-scheduler](https://github.com/DHANUNJAYA2005/applied_programming_skills/tree/master/0621-task-scheduler) |
 | [0973-k-closest-points-to-origin](https://github.com/DHANUNJAYA2005/applied_programming_skills/tree/master/0973-k-closest-points-to-origin) |
@@ -344,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Quickselect
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/DHANUNJAYA2005/applied_programming_skills/tree/master/0347-top-k-frequent-elements) |
 | [0973-k-closest-points-to-origin](https://github.com/DHANUNJAYA2005/applied_programming_skills/tree/master/0973-k-closest-points-to-origin) |
 ## Binary Indexed Tree
 |  |
@@ -353,4 +360,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/DHANUNJAYA2005/applied_programming_skills/tree/master/0315-count-of-smaller-numbers-after-self) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/DHANUNJAYA2005/applied_programming_skills/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
