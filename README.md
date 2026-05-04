@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/DHANUNJAYA2005/applied_programming_skills/tree/master/0062-unique-paths) |
 | [0202-happy-number](https://github.com/DHANUNJAYA2005/applied_programming_skills/tree/master/0202-happy-number) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/DHANUNJAYA2005/applied_programming_skills/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 ## Binary Search
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/DHANUNJAYA2005/applied_programming_skills/tree/master/0062-unique-paths) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/DHANUNJAYA2005/applied_programming_skills/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0322-coin-change](https://github.com/DHANUNJAYA2005/applied_programming_skills/tree/master/0322-coin-change) |
 | [0474-ones-and-zeroes](https://github.com/DHANUNJAYA2005/applied_programming_skills/tree/master/0474-ones-and-zeroes) |
@@ -309,4 +311,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/DHANUNJAYA2005/applied_programming_skills/tree/master/0046-permutations) |
 | [0077-combinations](https://github.com/DHANUNJAYA2005/applied_programming_skills/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/DHANUNJAYA2005/applied_programming_skills/tree/master/0078-subsets) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/DHANUNJAYA2005/applied_programming_skills/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
