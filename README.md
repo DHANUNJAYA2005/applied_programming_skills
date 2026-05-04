@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0046-permutations](https://github.com/DHANUNJAYA2005/applied_programming_skills/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/DHANUNJAYA2005/applied_programming_skills/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/DHANUNJAYA2005/applied_programming_skills/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/DHANUNJAYA2005/applied_programming_skills/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -294,5 +295,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0046-permutations](https://github.com/DHANUNJAYA2005/applied_programming_skills/tree/master/0046-permutations) |
 | [0077-combinations](https://github.com/DHANUNJAYA2005/applied_programming_skills/tree/master/0077-combinations) |
 <!---LeetCode Topics End-->
