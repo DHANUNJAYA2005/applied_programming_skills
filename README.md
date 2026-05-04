@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/DHANUNJAYA2005/applied_programming_skills/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/DHANUNJAYA2005/applied_programming_skills/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/DHANUNJAYA2005/applied_programming_skills/tree/master/0200-number-of-islands) |
+| [0215-kth-largest-element-in-an-array](https://github.com/DHANUNJAYA2005/applied_programming_skills/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/DHANUNJAYA2005/applied_programming_skills/tree/master/0239-sliding-window-maximum) |
 | [0283-move-zeroes](https://github.com/DHANUNJAYA2005/applied_programming_skills/tree/master/0283-move-zeroes) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/DHANUNJAYA2005/applied_programming_skills/tree/master/0315-count-of-smaller-numbers-after-self) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/DHANUNJAYA2005/applied_programming_skills/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/DHANUNJAYA2005/applied_programming_skills/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/DHANUNJAYA2005/applied_programming_skills/tree/master/0169-majority-element) |
+| [0215-kth-largest-element-in-an-array](https://github.com/DHANUNJAYA2005/applied_programming_skills/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/DHANUNJAYA2005/applied_programming_skills/tree/master/0347-top-k-frequent-elements) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/DHANUNJAYA2005/applied_programming_skills/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0621-task-scheduler](https://github.com/DHANUNJAYA2005/applied_programming_skills/tree/master/0621-task-scheduler) |
@@ -175,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/DHANUNJAYA2005/applied_programming_skills/tree/master/0023-merge-k-sorted-lists) |
 | [0169-majority-element](https://github.com/DHANUNJAYA2005/applied_programming_skills/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/DHANUNJAYA2005/applied_programming_skills/tree/master/0190-reverse-bits) |
+| [0215-kth-largest-element-in-an-array](https://github.com/DHANUNJAYA2005/applied_programming_skills/tree/master/0215-kth-largest-element-in-an-array) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/DHANUNJAYA2005/applied_programming_skills/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0347-top-k-frequent-elements](https://github.com/DHANUNJAYA2005/applied_programming_skills/tree/master/0347-top-k-frequent-elements) |
 | [0973-k-closest-points-to-origin](https://github.com/DHANUNJAYA2005/applied_programming_skills/tree/master/0973-k-closest-points-to-origin) |
@@ -183,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/DHANUNJAYA2005/applied_programming_skills/tree/master/0023-merge-k-sorted-lists) |
+| [0215-kth-largest-element-in-an-array](https://github.com/DHANUNJAYA2005/applied_programming_skills/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/DHANUNJAYA2005/applied_programming_skills/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/DHANUNJAYA2005/applied_programming_skills/tree/master/0347-top-k-frequent-elements) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/DHANUNJAYA2005/applied_programming_skills/tree/master/0373-find-k-pairs-with-smallest-sums) |
@@ -350,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Quickselect
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/DHANUNJAYA2005/applied_programming_skills/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/DHANUNJAYA2005/applied_programming_skills/tree/master/0347-top-k-frequent-elements) |
 | [0973-k-closest-points-to-origin](https://github.com/DHANUNJAYA2005/applied_programming_skills/tree/master/0973-k-closest-points-to-origin) |
 ## Binary Indexed Tree
