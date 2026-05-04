@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/DHANUNJAYA2005/applied_programming_skills/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/DHANUNJAYA2005/applied_programming_skills/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/DHANUNJAYA2005/applied_programming_skills/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/DHANUNJAYA2005/applied_programming_skills/tree/master/0078-subsets) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/DHANUNJAYA2005/applied_programming_skills/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/DHANUNJAYA2005/applied_programming_skills/tree/master/0169-majority-element) |
 | [0200-number-of-islands](https://github.com/DHANUNJAYA2005/applied_programming_skills/tree/master/0200-number-of-islands) |
@@ -257,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/DHANUNJAYA2005/applied_programming_skills/tree/master/0078-subsets) |
 | [0190-reverse-bits](https://github.com/DHANUNJAYA2005/applied_programming_skills/tree/master/0190-reverse-bits) |
 | [1763-longest-nice-substring](https://github.com/DHANUNJAYA2005/applied_programming_skills/tree/master/1763-longest-nice-substring) |
 ## Union-Find
@@ -297,4 +299,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0046-permutations](https://github.com/DHANUNJAYA2005/applied_programming_skills/tree/master/0046-permutations) |
 | [0077-combinations](https://github.com/DHANUNJAYA2005/applied_programming_skills/tree/master/0077-combinations) |
+| [0078-subsets](https://github.com/DHANUNJAYA2005/applied_programming_skills/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
