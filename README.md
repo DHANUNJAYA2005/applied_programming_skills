@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/DHANUNJAYA2005/applied_programming_skills/tree/master/0239-sliding-window-maximum) |
 | [0283-move-zeroes](https://github.com/DHANUNJAYA2005/applied_programming_skills/tree/master/0283-move-zeroes) |
 | [0496-next-greater-element-i](https://github.com/DHANUNJAYA2005/applied_programming_skills/tree/master/0496-next-greater-element-i) |
+| [0542-01-matrix](https://github.com/DHANUNJAYA2005/applied_programming_skills/tree/master/0542-01-matrix) |
 | [0621-task-scheduler](https://github.com/DHANUNJAYA2005/applied_programming_skills/tree/master/0621-task-scheduler) |
 | [0622-design-circular-queue](https://github.com/DHANUNJAYA2005/applied_programming_skills/tree/master/0622-design-circular-queue) |
 | [0641-design-circular-deque](https://github.com/DHANUNJAYA2005/applied_programming_skills/tree/master/0641-design-circular-deque) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/DHANUNJAYA2005/applied_programming_skills/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0542-01-matrix](https://github.com/DHANUNJAYA2005/applied_programming_skills/tree/master/0542-01-matrix) |
 ## Hash Table
 |  |
 | ------- |
@@ -208,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/DHANUNJAYA2005/applied_programming_skills/tree/master/0102-binary-tree-level-order-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/DHANUNJAYA2005/applied_programming_skills/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/DHANUNJAYA2005/applied_programming_skills/tree/master/0200-number-of-islands) |
+| [0542-01-matrix](https://github.com/DHANUNJAYA2005/applied_programming_skills/tree/master/0542-01-matrix) |
 | [0721-accounts-merge](https://github.com/DHANUNJAYA2005/applied_programming_skills/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/DHANUNJAYA2005/applied_programming_skills/tree/master/0733-flood-fill) |
 ## Binary Tree
@@ -244,5 +247,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/DHANUNJAYA2005/applied_programming_skills/tree/master/0200-number-of-islands) |
+| [0542-01-matrix](https://github.com/DHANUNJAYA2005/applied_programming_skills/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/DHANUNJAYA2005/applied_programming_skills/tree/master/0733-flood-fill) |
 <!---LeetCode Topics End-->
