@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/DHANUNJAYA2005/applied_programming_skills/tree/master/0283-move-zeroes) |
 | [0322-coin-change](https://github.com/DHANUNJAYA2005/applied_programming_skills/tree/master/0322-coin-change) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/DHANUNJAYA2005/applied_programming_skills/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0474-ones-and-zeroes](https://github.com/DHANUNJAYA2005/applied_programming_skills/tree/master/0474-ones-and-zeroes) |
 | [0496-next-greater-element-i](https://github.com/DHANUNJAYA2005/applied_programming_skills/tree/master/0496-next-greater-element-i) |
 | [0542-01-matrix](https://github.com/DHANUNJAYA2005/applied_programming_skills/tree/master/0542-01-matrix) |
 | [0621-task-scheduler](https://github.com/DHANUNJAYA2005/applied_programming_skills/tree/master/0621-task-scheduler) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/DHANUNJAYA2005/applied_programming_skills/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0322-coin-change](https://github.com/DHANUNJAYA2005/applied_programming_skills/tree/master/0322-coin-change) |
+| [0474-ones-and-zeroes](https://github.com/DHANUNJAYA2005/applied_programming_skills/tree/master/0474-ones-and-zeroes) |
 | [0542-01-matrix](https://github.com/DHANUNJAYA2005/applied_programming_skills/tree/master/0542-01-matrix) |
 ## Hash Table
 |  |
@@ -95,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/DHANUNJAYA2005/applied_programming_skills/tree/master/0049-group-anagrams) |
 | [0344-reverse-string](https://github.com/DHANUNJAYA2005/applied_programming_skills/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/DHANUNJAYA2005/applied_programming_skills/tree/master/0387-first-unique-character-in-a-string) |
+| [0474-ones-and-zeroes](https://github.com/DHANUNJAYA2005/applied_programming_skills/tree/master/0474-ones-and-zeroes) |
 | [0721-accounts-merge](https://github.com/DHANUNJAYA2005/applied_programming_skills/tree/master/0721-accounts-merge) |
 | [0929-unique-email-addresses](https://github.com/DHANUNJAYA2005/applied_programming_skills/tree/master/0929-unique-email-addresses) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/DHANUNJAYA2005/applied_programming_skills/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
