@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/DHANUNJAYA2005/applied_programming_skills/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/DHANUNJAYA2005/applied_programming_skills/tree/master/0049-group-anagrams) |
+| [0257-binary-tree-paths](https://github.com/DHANUNJAYA2005/applied_programming_skills/tree/master/0257-binary-tree-paths) |
 | [0344-reverse-string](https://github.com/DHANUNJAYA2005/applied_programming_skills/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/DHANUNJAYA2005/applied_programming_skills/tree/master/0387-first-unique-character-in-a-string) |
 | [0474-ones-and-zeroes](https://github.com/DHANUNJAYA2005/applied_programming_skills/tree/master/0474-ones-and-zeroes) |
@@ -248,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/DHANUNJAYA2005/applied_programming_skills/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/DHANUNJAYA2005/applied_programming_skills/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/DHANUNJAYA2005/applied_programming_skills/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/DHANUNJAYA2005/applied_programming_skills/tree/master/0257-binary-tree-paths) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -277,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/DHANUNJAYA2005/applied_programming_skills/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/DHANUNJAYA2005/applied_programming_skills/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/DHANUNJAYA2005/applied_programming_skills/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/DHANUNJAYA2005/applied_programming_skills/tree/master/0257-binary-tree-paths) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -288,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/DHANUNJAYA2005/applied_programming_skills/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/DHANUNJAYA2005/applied_programming_skills/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/DHANUNJAYA2005/applied_programming_skills/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/DHANUNJAYA2005/applied_programming_skills/tree/master/0257-binary-tree-paths) |
 | [0547-number-of-provinces](https://github.com/DHANUNJAYA2005/applied_programming_skills/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/DHANUNJAYA2005/applied_programming_skills/tree/master/0695-max-area-of-island) |
 | [0721-accounts-merge](https://github.com/DHANUNJAYA2005/applied_programming_skills/tree/master/0721-accounts-merge) |
@@ -345,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/DHANUNJAYA2005/applied_programming_skills/tree/master/0046-permutations) |
 | [0077-combinations](https://github.com/DHANUNJAYA2005/applied_programming_skills/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/DHANUNJAYA2005/applied_programming_skills/tree/master/0078-subsets) |
+| [0257-binary-tree-paths](https://github.com/DHANUNJAYA2005/applied_programming_skills/tree/master/0257-binary-tree-paths) |
 ## Combinatorics
 |  |
 | ------- |
