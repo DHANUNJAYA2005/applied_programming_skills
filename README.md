@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/DHANUNJAYA2005/applied_programming_skills/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/DHANUNJAYA2005/applied_programming_skills/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/DHANUNJAYA2005/applied_programming_skills/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/DHANUNJAYA2005/applied_programming_skills/tree/master/0202-happy-number) |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/DHANUNJAYA2005/applied_programming_skills/tree/master/0021-merge-two-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/DHANUNJAYA2005/applied_programming_skills/tree/master/0025-reverse-nodes-in-k-group) |
+| [0050-powx-n](https://github.com/DHANUNJAYA2005/applied_programming_skills/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/DHANUNJAYA2005/applied_programming_skills/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/DHANUNJAYA2005/applied_programming_skills/tree/master/0234-palindrome-linked-list) |
 ## Divide and Conquer
