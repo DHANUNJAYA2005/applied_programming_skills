@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/DHANUNJAYA2005/applied_programming_skills/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1480-running-sum-of-1d-array](https://github.com/DHANUNJAYA2005/applied_programming_skills/tree/master/1480-running-sum-of-1d-array) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/DHANUNJAYA2005/applied_programming_skills/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
+| [2965-find-missing-and-repeated-values](https://github.com/DHANUNJAYA2005/applied_programming_skills/tree/master/2965-find-missing-and-repeated-values) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/DHANUNJAYA2005/applied_programming_skills/tree/master/0202-happy-number) |
 | [0973-k-closest-points-to-origin](https://github.com/DHANUNJAYA2005/applied_programming_skills/tree/master/0973-k-closest-points-to-origin) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/DHANUNJAYA2005/applied_programming_skills/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
+| [2965-find-missing-and-repeated-values](https://github.com/DHANUNJAYA2005/applied_programming_skills/tree/master/2965-find-missing-and-repeated-values) |
 ## Binary Search
 |  |
 | ------- |
@@ -116,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/DHANUNJAYA2005/applied_programming_skills/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0997-find-the-town-judge](https://github.com/DHANUNJAYA2005/applied_programming_skills/tree/master/0997-find-the-town-judge) |
 | [1763-longest-nice-substring](https://github.com/DHANUNJAYA2005/applied_programming_skills/tree/master/1763-longest-nice-substring) |
+| [2965-find-missing-and-repeated-values](https://github.com/DHANUNJAYA2005/applied_programming_skills/tree/master/2965-find-missing-and-repeated-values) |
 ## String
 |  |
 | ------- |
@@ -365,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/DHANUNJAYA2005/applied_programming_skills/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/DHANUNJAYA2005/applied_programming_skills/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/DHANUNJAYA2005/applied_programming_skills/tree/master/0994-rotting-oranges) |
+| [2965-find-missing-and-repeated-values](https://github.com/DHANUNJAYA2005/applied_programming_skills/tree/master/2965-find-missing-and-repeated-values) |
 ## Graph Theory
 |  |
 | ------- |
