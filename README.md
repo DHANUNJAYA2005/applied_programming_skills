@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/DHANUNJAYA2005/applied_programming_skills/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/DHANUNJAYA2005/applied_programming_skills/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/DHANUNJAYA2005/applied_programming_skills/tree/master/0239-sliding-window-maximum) |
+| [0240-search-a-2d-matrix-ii](https://github.com/DHANUNJAYA2005/applied_programming_skills/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/DHANUNJAYA2005/applied_programming_skills/tree/master/0283-move-zeroes) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/DHANUNJAYA2005/applied_programming_skills/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0322-coin-change](https://github.com/DHANUNJAYA2005/applied_programming_skills/tree/master/0322-coin-change) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0240-search-a-2d-matrix-ii](https://github.com/DHANUNJAYA2005/applied_programming_skills/tree/master/0240-search-a-2d-matrix-ii) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/DHANUNJAYA2005/applied_programming_skills/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0704-binary-search](https://github.com/DHANUNJAYA2005/applied_programming_skills/tree/master/0704-binary-search) |
 ## Two Pointers
@@ -200,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/DHANUNJAYA2005/applied_programming_skills/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/DHANUNJAYA2005/applied_programming_skills/tree/master/0190-reverse-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/DHANUNJAYA2005/applied_programming_skills/tree/master/0215-kth-largest-element-in-an-array) |
+| [0240-search-a-2d-matrix-ii](https://github.com/DHANUNJAYA2005/applied_programming_skills/tree/master/0240-search-a-2d-matrix-ii) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/DHANUNJAYA2005/applied_programming_skills/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0347-top-k-frequent-elements](https://github.com/DHANUNJAYA2005/applied_programming_skills/tree/master/0347-top-k-frequent-elements) |
 | [0973-k-closest-points-to-origin](https://github.com/DHANUNJAYA2005/applied_programming_skills/tree/master/0973-k-closest-points-to-origin) |
@@ -373,6 +376,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/DHANUNJAYA2005/applied_programming_skills/tree/master/0054-spiral-matrix) |
 | [0200-number-of-islands](https://github.com/DHANUNJAYA2005/applied_programming_skills/tree/master/0200-number-of-islands) |
+| [0240-search-a-2d-matrix-ii](https://github.com/DHANUNJAYA2005/applied_programming_skills/tree/master/0240-search-a-2d-matrix-ii) |
 | [0542-01-matrix](https://github.com/DHANUNJAYA2005/applied_programming_skills/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/DHANUNJAYA2005/applied_programming_skills/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/DHANUNJAYA2005/applied_programming_skills/tree/master/0733-flood-fill) |
