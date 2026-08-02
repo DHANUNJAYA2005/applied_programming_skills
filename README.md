@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0046-permutations](https://github.com/DHANUNJAYA2005/applied_programming_skills/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/DHANUNJAYA2005/applied_programming_skills/tree/master/0049-group-anagrams) |
+| [0054-spiral-matrix](https://github.com/DHANUNJAYA2005/applied_programming_skills/tree/master/0054-spiral-matrix) |
 | [0075-sort-colors](https://github.com/DHANUNJAYA2005/applied_programming_skills/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/DHANUNJAYA2005/applied_programming_skills/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/DHANUNJAYA2005/applied_programming_skills/tree/master/0088-merge-sorted-array) |
@@ -242,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/DHANUNJAYA2005/applied_programming_skills/tree/master/0054-spiral-matrix) |
 | [0735-asteroid-collision](https://github.com/DHANUNJAYA2005/applied_programming_skills/tree/master/0735-asteroid-collision) |
 | [0946-validate-stack-sequences](https://github.com/DHANUNJAYA2005/applied_programming_skills/tree/master/0946-validate-stack-sequences) |
 ## Sliding Window
@@ -369,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/DHANUNJAYA2005/applied_programming_skills/tree/master/0054-spiral-matrix) |
 | [0200-number-of-islands](https://github.com/DHANUNJAYA2005/applied_programming_skills/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/DHANUNJAYA2005/applied_programming_skills/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/DHANUNJAYA2005/applied_programming_skills/tree/master/0695-max-area-of-island) |
