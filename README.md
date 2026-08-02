@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0474-ones-and-zeroes](https://github.com/DHANUNJAYA2005/applied_programming_skills/tree/master/0474-ones-and-zeroes) |
 | [0496-next-greater-element-i](https://github.com/DHANUNJAYA2005/applied_programming_skills/tree/master/0496-next-greater-element-i) |
 | [0542-01-matrix](https://github.com/DHANUNJAYA2005/applied_programming_skills/tree/master/0542-01-matrix) |
+| [0560-subarray-sum-equals-k](https://github.com/DHANUNJAYA2005/applied_programming_skills/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/DHANUNJAYA2005/applied_programming_skills/tree/master/0621-task-scheduler) |
 | [0622-design-circular-queue](https://github.com/DHANUNJAYA2005/applied_programming_skills/tree/master/0622-design-circular-queue) |
 | [0641-design-circular-deque](https://github.com/DHANUNJAYA2005/applied_programming_skills/tree/master/0641-design-circular-deque) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/DHANUNJAYA2005/applied_programming_skills/tree/master/0560-subarray-sum-equals-k) |
 | [1480-running-sum-of-1d-array](https://github.com/DHANUNJAYA2005/applied_programming_skills/tree/master/1480-running-sum-of-1d-array) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/DHANUNJAYA2005/applied_programming_skills/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 ## Math
@@ -115,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/DHANUNJAYA2005/applied_programming_skills/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/DHANUNJAYA2005/applied_programming_skills/tree/master/0387-first-unique-character-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/DHANUNJAYA2005/applied_programming_skills/tree/master/0496-next-greater-element-i) |
+| [0560-subarray-sum-equals-k](https://github.com/DHANUNJAYA2005/applied_programming_skills/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/DHANUNJAYA2005/applied_programming_skills/tree/master/0621-task-scheduler) |
 | [0721-accounts-merge](https://github.com/DHANUNJAYA2005/applied_programming_skills/tree/master/0721-accounts-merge) |
 | [0929-unique-email-addresses](https://github.com/DHANUNJAYA2005/applied_programming_skills/tree/master/0929-unique-email-addresses) |
