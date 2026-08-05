@@ -148,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0929-unique-email-addresses](https://github.com/DHANUNJAYA2005/applied_programming_skills/tree/master/0929-unique-email-addresses) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/DHANUNJAYA2005/applied_programming_skills/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1763-longest-nice-substring](https://github.com/DHANUNJAYA2005/applied_programming_skills/tree/master/1763-longest-nice-substring) |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/DHANUNJAYA2005/applied_programming_skills/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Queue
 |  |
 | ------- |
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0946-validate-stack-sequences](https://github.com/DHANUNJAYA2005/applied_programming_skills/tree/master/0946-validate-stack-sequences) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/DHANUNJAYA2005/applied_programming_skills/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/DHANUNJAYA2005/applied_programming_skills/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/DHANUNJAYA2005/applied_programming_skills/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Recursion
 |  |
 | ------- |
@@ -256,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/DHANUNJAYA2005/applied_programming_skills/tree/master/0054-spiral-matrix) |
 | [0735-asteroid-collision](https://github.com/DHANUNJAYA2005/applied_programming_skills/tree/master/0735-asteroid-collision) |
 | [0946-validate-stack-sequences](https://github.com/DHANUNJAYA2005/applied_programming_skills/tree/master/0946-validate-stack-sequences) |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/DHANUNJAYA2005/applied_programming_skills/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Sliding Window
 |  |
 | ------- |
