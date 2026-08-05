@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/DHANUNJAYA2005/applied_programming_skills/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/DHANUNJAYA2005/applied_programming_skills/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/DHANUNJAYA2005/applied_programming_skills/tree/master/0344-reverse-string) |
+| [0567-permutation-in-string](https://github.com/DHANUNJAYA2005/applied_programming_skills/tree/master/0567-permutation-in-string) |
 | [0876-middle-of-the-linked-list](https://github.com/DHANUNJAYA2005/applied_programming_skills/tree/master/0876-middle-of-the-linked-list) |
 ## Sorting
 |  |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/DHANUNJAYA2005/applied_programming_skills/tree/master/0387-first-unique-character-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/DHANUNJAYA2005/applied_programming_skills/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/DHANUNJAYA2005/applied_programming_skills/tree/master/0560-subarray-sum-equals-k) |
+| [0567-permutation-in-string](https://github.com/DHANUNJAYA2005/applied_programming_skills/tree/master/0567-permutation-in-string) |
 | [0621-task-scheduler](https://github.com/DHANUNJAYA2005/applied_programming_skills/tree/master/0621-task-scheduler) |
 | [0721-accounts-merge](https://github.com/DHANUNJAYA2005/applied_programming_skills/tree/master/0721-accounts-merge) |
 | [0929-unique-email-addresses](https://github.com/DHANUNJAYA2005/applied_programming_skills/tree/master/0929-unique-email-addresses) |
@@ -144,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/DHANUNJAYA2005/applied_programming_skills/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/DHANUNJAYA2005/applied_programming_skills/tree/master/0387-first-unique-character-in-a-string) |
 | [0474-ones-and-zeroes](https://github.com/DHANUNJAYA2005/applied_programming_skills/tree/master/0474-ones-and-zeroes) |
+| [0567-permutation-in-string](https://github.com/DHANUNJAYA2005/applied_programming_skills/tree/master/0567-permutation-in-string) |
 | [0721-accounts-merge](https://github.com/DHANUNJAYA2005/applied_programming_skills/tree/master/0721-accounts-merge) |
 | [0929-unique-email-addresses](https://github.com/DHANUNJAYA2005/applied_programming_skills/tree/master/0929-unique-email-addresses) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/DHANUNJAYA2005/applied_programming_skills/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
@@ -263,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/DHANUNJAYA2005/applied_programming_skills/tree/master/0239-sliding-window-maximum) |
+| [0567-permutation-in-string](https://github.com/DHANUNJAYA2005/applied_programming_skills/tree/master/0567-permutation-in-string) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/DHANUNJAYA2005/applied_programming_skills/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1763-longest-nice-substring](https://github.com/DHANUNJAYA2005/applied_programming_skills/tree/master/1763-longest-nice-substring) |
 ## Monotonic Queue
